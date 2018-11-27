@@ -1,0 +1,9 @@
+numpy
+sckit-learn==0.18.2
+scipy
+bokeh
+gensim==1.0.1
+tensorflow==1.0.1
+nltk
+annoy
+pymagnitude
