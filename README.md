@@ -1,6 +1,6 @@
-# word_embeddings_and_marvel_universe
+# Learning Word Embeddings with Stan Lee
 
-Learning Word Embeddings with Stan Lee
+
 A practitioner's exploration into what’s possible using word embeddings.
 
 
